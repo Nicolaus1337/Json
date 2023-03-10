@@ -4,31 +4,39 @@
       "id": 1,
       "title": "Taka",
       "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
-      "chat": "Halo semua Taka disini"
+      "chat": "bang mabar bang"
     },
     {
       "id": 2,
       "title": "Pikamee",
       "image": "https://styles.redditmedia.com/t5_2zygw3/styles/communityIcon_pcxxov4kzeh51.png",
-      "chat": "Pika dayoo"
+      "chat": "Pikaaa where are you?"
     },
     {
       "id": 3,
-      "title": "Kobok",
+      "title": "Kobo",
       "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/3/3b/Kobo_Kanaeru_Portrait.png/revision/latest?cb=20220406120041&path-prefix=id",
-      "chat": "Kontol"
+      "chat": "hush pergi kamu bocil kematian"
     }
   ],
-  "comments": [
+  "group": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Grub pecinta fury",
+      "image": "ed30a86b8c4ca887773594c2.wixmp.com/f/c5f97b61-78e8-46ad-9c37-fb5e8e0b2066/df2o6yw-4e27031b-36ea-40b6-b551-8654277e270d.jpg/v1/fill/w_1280,h_1234,q_75,strp/judy_hopps__disney_s_zootopia___2016___film__by_ronsonic_df2o6yw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIzNCIsInBhdGgiOiJcL2ZcL2M1Zjk3YjYxLTc4ZTgtNDZhZC05YzM3LWZiNWU4ZTBiMjA2NlwvZGYybzZ5dy00ZTI3MDMxYi0zNmVhLTQwYjYtYjU1MS04NjU0Mjc3ZTI3MGQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ",
+      "chat": "Mario : fury Indonesia, Solid Solid Solid ! "
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "title": "TTS PAM",
+      "image": "https://www.bodrex.com/files/macam-sakit-kepala-dan-cara-mengatasinya.jpg",
+      "chat": "Nico : Ngelu ndase"
+    },
+    {
+      "id": 3,
+      "title": "Grub belajar katanya",
+      "image": "https://preview.redd.it/rjmwy0jr6jg81.jpg?width=640&crop=smart&auto=webp&s=21fbf731dd7ebab7ece92737627420ca4ade6d6c",
+      "chat": "Timoti : Kuy mabar"
     }
   ],
   "profile": {
