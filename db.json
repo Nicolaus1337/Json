@@ -2,15 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "yeet"
+      "title": "Taka",
+      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
+      "chat": "Halo semua Taka disini"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Pikamee",
+      "image": "https://styles.redditmedia.com/t5_2zygw3/styles/communityIcon_pcxxov4kzeh51.png",
+      "chat": "Pika dayoo"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Kobok",
+      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/3/3b/Kobo_Kanaeru_Portrait.png/revision/latest?cb=20220406120041&path-prefix=id",
+      "chat": "Kontol"
     }
   ],
   "comments": [
