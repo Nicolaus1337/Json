@@ -39,7 +39,30 @@
       "chat": "Timoti : Kuy mabar"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Message": [
+    {
+      "message": "Knock Knock",
+      "isPeer": false  
+    },
+    {
+      "message": "who's there ?",
+      "isPeer": true  
+    },
+    {
+      "message": "Joe",
+      "isPeer": false  
+    },
+    {
+      "message": "Joe who ?",
+      "isPeer": true  
+    },
+    {
+      "message": "Joe mama",
+      "isPeer": false  
+    },
+     {
+      "message": ".....",
+      "isPeer": true  
+    },
+  ]
 }
