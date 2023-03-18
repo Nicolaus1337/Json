@@ -64,5 +64,28 @@
       "message": ".....",
       "isPeer": true  
     }
+  ],
+  "GroupMessage": [
+    {
+      "title": "Nico",
+      "message": "https://media.discordapp.net/attachments/358847299113320449/1086249980869746738/FrZxQk2aQAsNI9u.jpg?width=468&height=468",
+      "isPeer": false  
+    },
+    {
+      "title": "Daniel",
+      "message": "Gwejh juga mau",
+      "isPeer": true  
+    },
+    {
+      "title": "TImoti",
+      "message": "Utiwi beli roti o stasiun lempuyangan",
+      "isPeer": true 
+    },
+    {
+      "title": "Mario",
+      "message": "Cuk Nggilani",
+      "isPeer": true  
+    }
+   
   ]
 }
