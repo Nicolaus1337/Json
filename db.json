@@ -88,4 +88,19 @@
     }
    
   ]
+  "AboutUs": [
+    {
+      "isi": "Sentigram is a group chat mobile application that aims to provide an intuitive and seamless communication experience for its users. Our mission is to create a platform that allows individuals and groups to connect, collaborate, and share their ideas and experiences in real-time."
+    },
+    {
+      "isi": "Our app is designed to be user-friendly and easy to navigate, with a sleek and modern interface that encourages users to engage with each other in a fun and meaningful way. Whether you want to chat with friends, stay in touch with family, or collaborate with colleagues, Sentigram makes it easy to stay connected no matter where you are in the world."
+    },
+    {
+      "isi": "At Sentigram, we are committed to continuously improving our app and adding new features to enhance the user experience. We value feedback from our users and are always looking for ways to make our app better and more useful for everyone."
+    },
+    {
+      "isi": "So whether you're looking for a reliable group chat app for your family, friends, or coworkers, Sentigram is the perfect solution. Try it today and discover the power of seamless communication!"
+    }
+  
+  ]
 }
